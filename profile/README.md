@@ -3,9 +3,9 @@
 # Axio Electronics
 ### From product idea to production.
 
-Electronics ? Embedded firmware ? Connected products
+Electronics · Embedded firmware · Connected products
 
-[Website](https://axioelectronics.com) ? [Selected work](https://axioelectronics.com/work/) ? [Discuss a project](https://axioelectronics.com/contact/)
+[Website](https://axioelectronics.com) · [Selected work](https://axioelectronics.com/work/) · [Discuss a project](https://axioelectronics.com/contact/)
 
 </div>
 
@@ -13,7 +13,7 @@ Electronics ? Embedded firmware ? Connected products
 
 Axio Electronics is a product engineering studio in Jaipur, India. We help startups, enterprises and R&D teams develop electronic products, from early prototypes through engineering and manufacturing preparation.
 
-**Explore:** [Services](#services) ? [Solutions](#solutions) ? [How we work](#how-we-work) ? [Start a conversation](#start-a-conversation)
+**Explore:** [Services](#services) · [Solutions](#solutions) · [How we work](#how-we-work) · [Start a conversation](#start-a-conversation)
 
 ## Services
 
@@ -43,7 +43,7 @@ Axio Electronics is a product engineering studio in Jaipur, India. We help start
 
 ## How we work
 
-**Define ? Design ? Prototype ? Verify ? Prepare for production**
+**Define -> Design -> Prototype -> Verify -> Prepare for production**
 
 | Starting point | Engagement |
 |---|---|
@@ -57,8 +57,8 @@ Axio Electronics is a product engineering studio in Jaipur, India. We help start
 
 Share your product goal, current stage and the engineering help you need.
 
-**[Discuss your project with Axio ?](https://axioelectronics.com/contact/)**
+**[Discuss your project with Axio](https://axioelectronics.com/contact/)**
 
-[Browse public repositories](https://github.com/orgs/AxioElectronics/repositories?type=public) ? Team members: sign in and select **View as: Member** for the internal dashboard.
+[Browse public repositories](https://github.com/orgs/AxioElectronics/repositories?type=public) · Team members: sign in and select **View as: Member** for the internal dashboard.
 
 Published repositories carry their own documentation, contribution instructions and license terms.
