@@ -3,17 +3,17 @@
 # Axio Electronics
 ### From product idea to production.
 
-Electronics · Embedded firmware · Connected products
+- Electronics · Embedded firmware · Connected products
 
-[Website](https://axioelectronics.com) · [Selected work](https://axioelectronics.com/work/) · [Discuss a project](https://axioelectronics.com/contact/)
+- [Website](https://axioelectronics.com) · [Selected work](https://axioelectronics.com/work/) · [Discuss a project](https://axioelectronics.com/contact/)
 
 </div>
 
 ---
 
-Axio Electronics is a product engineering studio in Jaipur, India. We help startups, enterprises and R&D teams develop electronic products, from early prototypes through engineering and manufacturing preparation.
+- Axio Electronics is a product engineering studio in Jaipur, India. We help startups, enterprises and R&D teams develop electronic products, from early prototypes through engineering and manufacturing preparation.
 
-**Explore:** [Services](#services) · [Solutions](#solutions) · [How we work](#how-we-work) · [Start a conversation](#start-a-conversation)
+- **Explore:** [Services](#services) · [Solutions](#solutions) · [How we work](#how-we-work) · [Start a conversation](#start-a-conversation)
 
 ## Services
 
@@ -27,7 +27,7 @@ Axio Electronics is a product engineering studio in Jaipur, India. We help start
 | **Prototyping & verification** | Build prototypes and plan engineering validation |
 | **Manufacturing preparation** | Refine designs and support the transition to pilot production |
 
-[Explore Axio's capabilities](https://axioelectronics.com)
+- [Explore Axio's capabilities](https://axioelectronics.com)
 
 ## Solutions
 
@@ -39,11 +39,11 @@ Axio Electronics is a product engineering studio in Jaipur, India. We help start
 | **Industrial automation** | Monitoring, control and connected equipment |
 | **AI & edge devices** | Hardware and software integration for device-side intelligence |
 
-[See selected projects](https://axioelectronics.com/work/)
+- [See selected projects](https://axioelectronics.com/work/)
 
 ## How we work
 
-**Define -> Design -> Prototype -> Verify -> Prepare for production**
+- **Define -> Design -> Prototype -> Verify -> Prepare for production**
 
 | Starting point | Engagement |
 |---|---|
@@ -51,14 +51,14 @@ Axio Electronics is a product engineering studio in Jaipur, India. We help start
 | A prototype to develop | Integrated product engineering |
 | A design to manufacture | Production preparation and pilot support |
 
-[Our development process](https://axioelectronics.com/about/product-development-process/)
+- [Our development process](https://axioelectronics.com/about/product-development-process/)
 
 ## Start a conversation
 
-Share your product goal, current stage and the engineering help you need.
+- Share your product goal, current stage and the engineering help you need.
 
-**[Discuss your project with Axio](https://axioelectronics.com/contact/)**
+- **[Discuss your project with Axio](https://axioelectronics.com/contact/)**
 
-[Browse public repositories](https://github.com/orgs/AxioElectronics/repositories?type=public) · Team members: sign in and select **View as: Member** for the internal dashboard.
+- [Browse public repositories](https://github.com/orgs/AxioElectronics/repositories?type=public) · Team members: sign in and select **View as: Member** for the internal dashboard.
 
-Published repositories carry their own documentation, contribution instructions and license terms.
+- Published repositories carry their own documentation, contribution instructions and license terms.
